@@ -8,6 +8,8 @@ int main() {
     while (t--) {
         string S;
         string T;
+        cin>>S;
+	cin>>T;
         
         for(int i =0; i<5; i++) {
             if(S[i] == T[i]) {
