@@ -11,6 +11,11 @@ int main() {
 	    
 	    if (Y<=(X*10)) {
 	        cout<<Y*Z<<endl;
+		    
+		    
+		    
+		    
+		    
 	    }
 	    else {
 	        cout<<X*10*Z<<endl;
